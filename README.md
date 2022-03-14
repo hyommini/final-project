@@ -18,7 +18,7 @@
   * [sql](final-project/sql/)
 <br><br>
 ### 💾&nbsp; 3.구현ERD
-(![20 설계_ERD(필수)](https://user-images.githubusercontent.com/88658331/158013895-686b97a4-b681-4e46-9184-86d189a1e52d.png)
+![20 설계_ERD(필수)](https://user-images.githubusercontent.com/88658331/158013895-686b97a4-b681-4e46-9184-86d189a1e52d.png)
 <br><br>
 
 ### 💻&nbsp; 4. 사용기술
@@ -34,11 +34,11 @@
 <h2 id="시연영상"> 🎞 기능 시연영상 </h2>
 
 #### 5-1 관리자 사이트 메인 
-(![홈](https://user-images.githubusercontent.com/88658331/158014099-3ef9f271-ad78-41e6-b4ea-aabe3d9be293.gif)
+![홈](https://user-images.githubusercontent.com/88658331/158014099-3ef9f271-ad78-41e6-b4ea-aabe3d9be293.gif)
 #### 5-2 회원조회 페이지 
-(![회원관리](https://user-images.githubusercontent.com/88658331/158014118-782c94b6-fbdc-4741-914c-dc931a4b024b.gif)
+![회원관리](https://user-images.githubusercontent.com/88658331/158014118-782c94b6-fbdc-4741-914c-dc931a4b024b.gif)
 #### 5-3 프로젝트조회 페이지
-(![프로젝트관리](https://user-images.githubusercontent.com/88658331/158014124-ae83c702-ceb2-4590-8c53-a708d89aa1e7.gif)
+![프로젝트관리](https://user-images.githubusercontent.com/88658331/158014124-ae83c702-ceb2-4590-8c53-a708d89aa1e7.gif)
 #### 5-4 매출관리 페이지 
 ![Hnet-image](https://user-images.githubusercontent.com/88658331/158014285-04bfe8cb-f77e-40b0-9f55-d259de3577e7.gif)
 #### 5-5 HelpCenter 
