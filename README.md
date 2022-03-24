@@ -12,10 +12,10 @@
 <br>       
            
 ### 📖&nbsp; 2.소스코드
-  * [model](final-project/moremore/src/main/java/com/spring/more/)
-  * [view](final-project/moremore/src/main/webapp/)
-  * [controller](final-project/moremore/src/main/java/com/spring/more/)
-  * [sql](final-project/sql/)
+  * [model](https://github.com/yunhyomin/final-project/tree/main/moremore/src/main/java/com/spring/more)
+  * [view](https://github.com/yunhyomin/final-project/tree/main/moremore/src/main/webapp)
+  * [controller](https://github.com/yunhyomin/final-project/tree/main/moremore/src/main/java/com/spring/more)
+  * [sql](https://github.com/yunhyomin/final-project/tree/main/sql)
 <br><br>
 ### 💾&nbsp; 3.구현ERD
 ![20 설계_ERD(필수)](https://user-images.githubusercontent.com/88658331/158013895-686b97a4-b681-4e46-9184-86d189a1e52d.png)
